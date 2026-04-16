@@ -1,0 +1,6 @@
+2026-01-01 10:00:00 Login success from 192.168.1.2
+2026-01-01 10:01:00 Failed login from 192.168.1.5
+2026-01-01 10:02:00 Failed login from 192.168.1.5
+2026-01-01 10:03:00 Failed login from 192.168.1.5
+2026-01-01 10:05:00 SQL injection attempt from 10.0.0.1
+2026-01-01 10:06:00 Access granted to admin
